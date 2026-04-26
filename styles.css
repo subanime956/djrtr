@@ -317,6 +317,6 @@ body {
   font-weight: 600;       /* Negrita */
   letter-spacing: 1px;    /* espaciado de letras */
   color: #A7ACD1;         /* color gris claro */
-  margin: 0 0 20px 15px;     /* margen inferior para separación */
+  margin: 0 0 20px 0;     /* margen inferior para separación */
   text-transform: uppercase; /* para que quede en mayúsculas */
 }
