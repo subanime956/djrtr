@@ -1,31 +1,17 @@
 const GENEROS_DISPONIBLES = [
-  "acción","artes marciales","aventuras","carreras","ciencia ficción","comedia",
-  "demencia","demonios","deportes","drama","ecchi","escolares","espacial",
-  "fantasía","harem","historico","infantil","josei","juegos","magia","mecha",
-  "militar","misterio","música","parodia","policía","psicológico",
-  "recuentos de la vida","romance","samurai","seinen","shoujo","shounen",
-  "sobrenatural","superpoderes","suspenso","terror","vampiros","yaoi","yuri"
+  "Ahegao","Christmas","Cumshot","Creampie"
 ];
 
 const CATEGORIAS_DISPONIBLES = [
-  "genshin",
-  "date a live",
-  "honkai star rail"
+  "Gotoubun no Hanayome"
 ];
 
 const AUTORES_DISPONIBLES = [
-  "maplestar",
-  "raimbo",
-  "minus8","demonios","deportes","drama","ecchi","escolares","espacial",
-  "fantasía","harem","historico","infantil","josei","juegos","magia","mecha",
-  "militar","misterio","música","parodia","policía","psicológico",
-  "recuentos de la vida","romance","samurai","seinen","shoujo","shounen",
-  "sobrenatural","superpoderes","suspenso","terror","vampiros","yaoi","yuri"
+  "Kozuki"
 ];
 
 const PERSONAJES_DISPONIBLES = [
-  "Miku Nakano",
-  "Futaro Uesugi"
+  "Miku Nakano","Futaro Uesugi"
 ];        
 
 const params = new URLSearchParams(window.location.search);
