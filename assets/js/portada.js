@@ -39,7 +39,7 @@
 
   if(!langWrap || !btn || !menu || !pill || !grid) return;
 
-  const labels = { raw:"Raw", sub:"Sub", latino:"Latino" };
+  const labels = { Esp:"Esp", Ing:"Ing", Jap:"Jap" };
 
   function setOpen(v){
     langWrap.classList.toggle("open", v);
