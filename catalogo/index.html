@@ -237,6 +237,23 @@
 
 <div class="filter-block">
   <div class="select-box">
+    <button type="button" class="select-display" id="togglePersonajesBtn">
+      <span class="label-soft">Personajes:</span>
+      <span class="value-strong" id="personajesSummary">Seleccionar</span>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5"/></svg>
+    </button>
+
+    <div class="select-panel" id="personajesPanel">
+      <div class="select-search-wrap">
+        <input type="text" id="personajesSearch" class="select-search" placeholder="Buscar personaje...">
+      </div>
+      <div id="personajesOptions"></div>
+    </div>
+  </div>
+</div>
+
+<div class="filter-block">
+  <div class="select-box">
     <button type="button" class="select-display" id="toggleEstadoBtn">
       <span class="label-soft">Estado:</span>
       <span class="value-strong" id="estadoSummary">Seleccionar</span>
