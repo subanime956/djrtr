@@ -1,13 +1,13 @@
 const GENEROS_DISPONIBLES = [
-  "Ahegao","Christmas","Cumshot","Creampie"
+  "Ahegao","Christmas","Cumshot","Creampie","Dominación","Milf","Chica Alta","Virgenes","B/N"
 ];
 
 const CATEGORIAS_DISPONIBLES = [
-  "Gotoubun no Hanayome"
+  "Gotoubun no Hanayome", "Original"
 ];
 
 const AUTORES_DISPONIBLES = [
-  "Kozuki"
+  "Kozuki", "Mogiki Hayami"
 ];
 
 const PERSONAJES_DISPONIBLES = [
